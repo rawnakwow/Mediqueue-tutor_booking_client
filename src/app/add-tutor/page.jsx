@@ -1,6 +1,9 @@
 import React from 'react';
 
-const addTutor = () => {
+
+
+
+const addTutorpage = () => {
     return (
         <div>
             <add-tutor></add-tutor>
@@ -8,4 +11,4 @@ const addTutor = () => {
     );
 };
 
-export default addTutor;
+export default addTutorpage;
